@@ -1,3 +1,6 @@
+# forked from react-splitter-layout and added react v18 support
+As the main branch is not maintianing...
+
 # react-splitter-layout
 
 [![Travis](https://img.shields.io/travis/zesik/react-splitter-layout.svg)](https://travis-ci.org/zesik/react-splitter-layout)
