@@ -21,7 +21,7 @@ React-splitter-layout depends on React and prop-types. See [package.json](packag
 ## Installation
 
 ```sh
-$ npm install --save react-splitter-layout
+$ npm install --save react-splitter-layout-react-v18
 ```
 
 ## Testing
