@@ -1,7 +1,7 @@
 # forked from react-splitter-layout and added react v18 support
 As the main branch is not maintianing...
 
-# react-splitter-layout
+# react-splitter-layout-react-v18
 
 [![Travis](https://img.shields.io/travis/zesik/react-splitter-layout.svg)](https://travis-ci.org/zesik/react-splitter-layout)
 [![Coveralls](https://img.shields.io/coveralls/zesik/react-splitter-layout.svg)](https://coveralls.io/github/zesik/react-splitter-layout)
@@ -49,7 +49,7 @@ $ npm run coverage
 1. Add `react-splitter-layout` dependency to your code.
 
     ```sh
-    $ npm install --save react-splitter-layout
+    $ npm install --save react-splitter-layout-react-v18
     ```
 
 2. Include the library into your code and use it.
