@@ -1,5 +1,5 @@
 {
-  "name": "react-splitter-layout",
+  "name": "react-splitter-layout-react-v18",
   "version": "4.0.0",
   "description": "A simple split layout for React and modern browsers",
   "keywords": [
@@ -8,14 +8,14 @@
     "split",
     "splitter"
   ],
-  "author": "Yang Liu <hi@zesik.com>",
+  "author": "iamnotstone <weijieouyang@tuocad.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zesik/react-splitter-layout"
+    "url": "https://github.com/iamnotstone/react-splitter-layout-react-v18"
   },
   "bugs": {
-    "url": "https://github.com/zesik/react-splitter-layout/issues"
+    "url": "https://github.com/zesik/react-splitter-layout-react-v18/issues"
   },
   "main": "lib/index.js",
   "files": [
